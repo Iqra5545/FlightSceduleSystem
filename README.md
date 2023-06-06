@@ -25,5 +25,6 @@ Guide to build and deploy project
 > 
 > 
 ---
-
+### Entity-Relationship Diagram
+![Screenshot](https://github.com/Iqra5545/FlightSceduleSystem/blob/main/Screenshots/ERD.png)
 ---
