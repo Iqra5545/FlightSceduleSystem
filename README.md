@@ -11,9 +11,10 @@ Guide to build and deploy project
 ---
 ### Steps
 - Clone this repository in separate directory.
-- Execute the DDLs.sql using command line or db visulizer for creations of tables.
-- Execute the DMLs.sql for dummy data insertions.
+- Execute the scripts/DDLs.sql using command line or db visulizer for creations of tables.
+- Execute the scripts/DMLs.sql for dummy data insertions.
 - Open project as Java Project in your IDE.
+- Change parameters values in dbconfig.xml with your respective connection string and credentials.
 - Run / Debug Project.
 
 > **Note:**
