@@ -14,7 +14,7 @@ Guide to build and deploy project
 - Execute the scripts/DDLs.sql using command line or db visulizer for creations of tables.
 - Execute the scripts/DMLs.sql for dummy data insertions.
 - Open project as Java Project in your IDE.
-- Change parameters values in dbconfig.xml with your respective connection string and credentials.
+- Change parameters values in src/resources/dbconfig.xml with your respective connection string and credentials.
 - Run / Debug Project.
 
 > **Note:**
